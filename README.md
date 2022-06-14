@@ -1,7 +1,7 @@
 # Recipe APp
 
 # Contexto
-Projeto inpirado em outro projeto que desenvolvi em grupo enquanto estudante da Trybe. No projeto original, foi usado React Redux, enquanto que neste pessoal refiz para usar outras Context API e Hooks. Além de fazer um CSS completamente novo.
+Projeto inspirado em outro projeto que foi desenvolvido em grupo enquanto estudante. No projeto original, foi usado React Redux, enquanto neste Context API e Hooks. Além de fazer um CSS completamente novo.
 
 ## Técnologias usadas
 
