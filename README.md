@@ -16,7 +16,7 @@ Front-end:
 ---
 
 Back-end:
-> Desenvolvido usando: NodeJS
+Desenvolvido usando: NodeJS
 
 ## Deploy
 https://recipe-app-nu-puce.vercel.app/
