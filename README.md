@@ -18,6 +18,9 @@ Front-end:
 Back-end:
 > Desenvolvido usando: NodeJS
 
+## Deploy
+https://recipe-app-nu-puce.vercel.app/
+
 ## Instalando Dependências
 
 > Backend
@@ -57,9 +60,6 @@ A base de dados serão 2 APIs distintas, uma para comidas e outra para bebidas.
 
 O layout tem como foco dispositivos móveis, então todos os protótipos vão estar desenvolvidos em telas menores.
 
-### Protótipo do projeto
-
-https://www.figma.com/file/cBDVGdqQxUuVlQp3ehW7wx/Recipes-App
 
 ### Linter
 
@@ -68,36 +68,6 @@ Para garantir a qualidade do código de forma a tê-lo mais legível, de mais f�
 ```bash
 npm run lint
 ```
-
-### Dica: desativando testes
-
-Para rodar somente um arquivo de teste, você precisa utilizar o comando:
-
-`npm run cy -- --spec cypress/integration/login_spec.js`
-
-**obs**: após o "spec" é preciso acrescentar todo o caminho até o arquivo de testes.
-
-Para rodar apenas um teste, basta utilizar a função `.only` após o `describe`. Com isso, será possível que apenas um requisito rode localmente e seja avaliado.
-
-![image](describe-only.png)
-![image](only-all-green.png)
-
----
-
-### Usando o Trello como ferramenta kanban
-
-Uma forma para seu grupo organizar as atividades e dividir as tarefas é através de um modelo de kanban.
-
-Para duplicar, basta seguir os passos:
-
-- Acesse o [link do board](https://trello.com/b/WHmyvnt7/app-de-receitas)
-- Abra o menu no canto superior direito
-- Selecione "copiar quadros"
-- Defina o time do grupo e um título para o board
-- Clique em `criar`
-- Personalize seu novo kanban!
-
----
 
 ## APIs
 
