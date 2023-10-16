@@ -13,6 +13,7 @@ Front-end:
   - Hooks customizados
   - Styled Components
   - Jest para testes
+  - ![image](https://github.com/Danilo-Couto/recipe-app/assets/88905222/ba482e27-924b-45ca-a19b-e63ffc6818e5)
 ---
 
 Back-end:
